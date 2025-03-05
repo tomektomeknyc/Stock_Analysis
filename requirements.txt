@@ -1,0 +1,12 @@
+pandas
+numpy
+refinitiv-data
+requests
+jupyter
+python-dotenv
+matplotlib
+seaborn
+statsmodels
+
+
+
