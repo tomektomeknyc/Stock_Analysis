@@ -9,6 +9,7 @@ seaborn
 statsmodels
 yfinance
 plotly
+cufflinks
 
 
 
